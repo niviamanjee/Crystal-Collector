@@ -32,7 +32,7 @@ function reset() {
     $("#random-number").text(randomNumber);
 
 
-    crystals = []
+    crystals = [];
     while (crystals.length < 4) {
         var random = Math.floor(Math.random() * 12) + 1;
         console.log("random: ", random)
