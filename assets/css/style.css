@@ -1,4 +1,24 @@
 #title {
-    background-color:#180547;
-    color: white,
+    color: blue;
+    font-family: 'Cinzel', serif;
+    border: 3px solid pink;
+    padding: 10px;
+    font-weight: bold;
+    background-color: #BDFAF3;
+}
+
+#directions {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100%;
+    text-align: center;
+    border: 2px solid purple;
+    padding: 10px;
+    background-color: #F1E8FC ;
+    margin-bottom: 10px;
+}
+
+#number-box {
+    text-align: center;
+    border: 1px solid ;
+
 }

@@ -71,7 +71,7 @@ $(".crystals").on("click", function () {
     }
     else if (total > randomNumber) {
         losses++;
-        $("#losses-counter").text(losses);
+        $("#loss-counter").text(losses);
         reset();
     }
 })
