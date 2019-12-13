@@ -20,6 +20,13 @@ body {
     background-color: #F1E8FC ;
     margin-bottom: 10px;
 }
+#gem-row {
+    display: flex;
+}
+
+#gem-row .col {
+    flex: 1;
+}
 
 #number-box {
     text-align: center;

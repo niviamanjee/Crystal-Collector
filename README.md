@@ -6,7 +6,7 @@ This is an interactive game where the user has to collect gems, each containing 
 
 ## Skills Used 
 * HTML 
-* CSS and Bootstrap 
+* CSS and Bootstrap flexbox
 * Javascript 
 * JQuery
 
