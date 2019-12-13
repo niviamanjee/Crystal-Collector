@@ -22,11 +22,18 @@ body {
 }
 #gem-row {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
 }
 
-#gem-row .col {
+#gem-row .card {
     flex: 1;
 }
+#gen-row h2 {
+    flex: 2;
+}
+
 
 #number-box {
     text-align: center;
